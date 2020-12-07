@@ -1,5 +1,5 @@
 
-### Hii..I'm [Kavin](https://vasanth-portfolio-10.netlify.app) 👋
+### Hii..I'm [Kavin](https://serene-hypatia-b4352b.netlify.app) 👋
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasanthvk-2678" alt="vasanth" /> </p> -->
@@ -8,7 +8,7 @@ To work in highly competitive environment with a perfect Challenge by contributi
 
 ### Connect with me: 
 
-<a href="https://www.linkedin.com/in/kavin-m-623179201/">
+<a href="https://www.linkedin.com/in/kavin-s-508973177/">
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/kavin511">
