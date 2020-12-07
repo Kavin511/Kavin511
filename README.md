@@ -22,11 +22,4 @@ To work in highly competitive environment with a perfect Challenge by contributi
 <br>
 <br>
 
-<center>
-<a href="https://github.com/kavin511">
-  <img align="center" src="https://github.com/Kavin511/Kavin511/edit/main/README.md" />
-</a>
-<a href="https://github.com/kavin511">
- <img align="center" src="https://github.com/Kavin511/Kavin511/edit/main/README.md" alt="Pawan's github stats"/>
-</a>
-</center>
+ 
