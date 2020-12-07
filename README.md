@@ -2,8 +2,6 @@
 ### Hii..I'm [Kavin](https://serene-hypatia-b4352b.netlify.app) 👋
 
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasanthvk-2678" alt="vasanth" /> </p> -->
-
 To work in highly competitive environment with a perfect Challenge by contributing the Best for the growth of the Organization while ensuring growth in personal career.
 
 ### Connect with me: 
@@ -26,9 +24,9 @@ To work in highly competitive environment with a perfect Challenge by contributi
 
 <center>
 <a href="https://github.com/kavin511">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasanthvk-2678&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavin511&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/kavin511">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vasanthvk-2678&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=kavin511&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
 </center>
