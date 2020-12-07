@@ -24,9 +24,9 @@ To work in highly competitive environment with a perfect Challenge by contributi
 
 <center>
 <a href="https://github.com/kavin511">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavin511&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github.com/Kavin511/Kavin511/edit/main/README.md" />
 </a>
 <a href="https://github.com/kavin511">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=kavin511&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github.com/Kavin511/Kavin511/edit/main/README.md" alt="Pawan's github stats"/>
 </a>
 </center>
