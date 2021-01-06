@@ -7,10 +7,10 @@ To work in highly competitive environment with a perfect Challenge by contributi
 ### Connect with me: 
 
 <a href="https://www.linkedin.com/in/kavin-s-508973177/">
-  <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Linkdein" width="22px" src="https://play-lh.googleusercontent.com/fqYJHtyzZzA4vacRzeJoB93QNvA5-mvR-8UB5oVLxdYDSTpfLp_KgYD4IqVGJUgFEJo=s180-rw" />
 </a>
 <a href="https://github.com/kavin511">
-  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Github" width="22px" src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU=s180-rw" />
 </a>
 
 <a href="https://www.instagram.com/i_kavin_/">
