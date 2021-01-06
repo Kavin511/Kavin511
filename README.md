@@ -14,7 +14,7 @@ To work in highly competitive environment with a perfect Challenge by contributi
 </a>
 
 <a href="https://www.instagram.com/i_kavin_/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="22px" src="https://play-lh.googleusercontent.com/c2DcVsBUhJb3UlAGABHwafpuhstHwORpVwWZ0RvWY7NPrgdtT2o4JRhcyO49ehhUNRca=s180-rw" />
 </a> 
 <br>
 <br>
