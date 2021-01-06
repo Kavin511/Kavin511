@@ -16,9 +16,6 @@ To work in highly competitive environment with a perfect Challenge by contributi
 <a href="https://www.instagram.com/i_kavin_/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a> 
-<a href="https://www.facebook.com/profile.php?id=100025606453239">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 <br>
 <br>
 
