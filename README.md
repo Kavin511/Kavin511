@@ -2,7 +2,7 @@
 ### Hii..I'm [Kavin](https://kavin-dev/netlify.app) 👋
 
 
-To work in highly competitive environment with a perfect Challenge by contributing the Best for the growth of the Organization while ensuring growth in personal career.
+Self motivated to start  a challenging position in a reputable organization to  start my career and utilize my  skills for the growth of organization.
 
 ### Connect with me: 
 
