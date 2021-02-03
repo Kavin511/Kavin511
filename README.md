@@ -2,7 +2,7 @@
 ### Hii..I'm [Kavin](https://kavin-dev/netlify.app) 👋
 
 
-Self motivated to get  a challenging position in a reputable organization to  start my career and utilize my  skills for the growth of organization.
+Self motivated to start  a challenging position in a reputable organization to  start my career and improve my skills
 
 ### Connect with me: 
 
