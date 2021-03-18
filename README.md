@@ -2,7 +2,7 @@
 ### Hii..I'm [Kavin](https://kavin-dev/netlify.app) 👋
 
 
-Self motivated to perceive a career in a firm with dedicated efforts  to associate myself with that organization which gives me a chance to enhance my knowledge and initiate long-term opportunities for professional growth
+Self motivated to start my career in a firm with dedicated efforts  to associate myself with that organization which gives me a chance to enhance my knowledge and initiate long-term opportunities for professional growth
 
 ### Connect with me: 
 
