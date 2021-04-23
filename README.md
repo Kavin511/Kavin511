@@ -14,7 +14,7 @@ Self motivated to start my career in a firm with dedicated efforts  to associate
 </a>
 
 <a href="https://www.instagram.com/i_kavin_/">
-  <img align="left" alt="Instagram" width="22px" src="https://play-lh.googleusercontent.com/c2DcVsBUhJb3UlAGABHwafpuhstHwORpVwWZ0RvWY7NPrgdtT2o4JRhcyO49ehhUNRca=s180-rw" />
+  <img align="left" alt="Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1619190866~hmac=117ebd4ba3db66351e8fa578f4fa20be" />
 </a> 
 <br>
 <br>
