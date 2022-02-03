@@ -12,8 +12,7 @@ Self motivated to start my career in a firm with dedicated efforts  to associate
 <a href="https://github.com/kavin511">
   <img align="left" alt="Github" width="22px" src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU=s180-rw" />
 </a>
- 
 <br>
 <br>
 
- 
+<img src="https://github-readme-stats.vercel.app/api?username=Kavin511&theme=vue-light&show_icons=true">
