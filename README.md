@@ -15,4 +15,4 @@ Self motivated to start my career in a firm with dedicated efforts  to associate
 <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kavin511&theme=vue-light&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=Kavin511&theme=vue-dark&show_icons=true">
