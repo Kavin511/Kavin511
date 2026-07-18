@@ -23,7 +23,7 @@ Kotlin · Jetpack Compose · Coroutines · Clean Architecture · MVVM / MVI · H
 
 ### 🔗 Connect
 
-[Portfolio](https://kavin-dev.netlify.app) ·
+[Portfolio](https://kavin511.github.io/portfolio-2/) ·
 [LinkedIn](https://www.linkedin.com/in/kavin-samiyappan) ·
 [Google Play](https://play.google.com/store/apps/dev?id=5245167820164346873) ·
 [Email](mailto:kavinalmighty@gmail.com)
